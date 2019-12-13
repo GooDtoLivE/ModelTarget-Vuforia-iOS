@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 2c9a3044518558640a5abac4056876a2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: aid-platform.1
+    100002: aid-platform.1 1
+    100004: assembly.CATProduct
+    100006: beam.1
+    100008: beam.1 1
+    100010: body
+    100012: body.1
+    100014: body.CATProduct
+    100016: connection.1
+    100018: connection.1 1
+    100020: dangban1.1
+    100022: dangban1.1 1
+    100024: dangban1.2
+    100026: dangban1.2 1
+    100028: deck.1
+    100030: deck.1 1
+    100032: DefaultLight1
+    100034: DefaultLight2
+    100036: DefaultLight3
+    100038: DefaultLight4
+    100040: dingbu-assembly
+    100042: dingbu-assembly.1
+    100044: dingbu-assembly.1 1
+    100046: dingbu-assembly.CATProduct
+    100048: frame-double
+    100050: frame-double.1
+    100052: frame-double.1 1
+    100054: frame.1
+    100056: frame.1 1
+    100058: fuzhu-ban.1
+    100060: fuzhu-ban.1 1
+    100062: helicopter-platform
+    100064: helicopter-platform.1
+    100066: kuai.1
+    100068: kuai.1 1
+    100070: kuangjia.1
+    100072: kuangjia.1 1
+    100074: light.1
+    100076: light.1 1
+    100078: lijia.CATProduct
+    100080: MechanicalTool.1
+    100082: platform-assembly
+    100084: platform-assembly.1
+    100086: platform-assembly.1 1
+    100088: platform.1
+    100090: platform.1 1
+    100092: platform.CATProduct
+    100094: Product8.CATProduct
+    100096: qiaojie.1
+    100098: qiaojie.1 1
+    100100: ship
+    100102: ship-body.1
+    100104: ship-body.1 1
+    100106: //RootNode
+    100108: ship-internal-structure.1
+    100110: ship-internal-structure.1 1
+    100112: ship.CATProduct
+    100114: structure-part
+    100116: structure-part.1
+    100118: structure-part.1 1
+    100120: structure.CATProduct
+    100122: structure1.1
+    100124: structure1.1 1
+    100126: Symmetry of dangban1.1
+    100128: Symmetry of dangban1.1 1
+    100130: Symmetry of dangban1.2.1
+    100132: Symmetry of dangban1.2.1 1
+    100134: Symmetry of frame
+    100136: Symmetry of frame.1.1
+    100138: Symmetry of frame.1.1 1
+    100140: Symmetry of frame1.1
+    100142: Symmetry of frame1.1 1
+    100144: Symmetry of kuai.1.1
+    100146: Symmetry of kuai.1.1 1
+    100148: Symmetry of xiaoding1.1.1
+    100150: Symmetry of xiaoding1.1.1 1
+    100152: tatai.1
+    100154: tatai.1 1
+    100156: top-pingtai.1
+    100158: top-pingtai.1 1
+    100160: weiyi-ban.1
+    100162: weiyi-ban.1 1
+    100164: xiaoding1.1
+    100166: xiaoding1.1 1
+    400000: aid-platform.1
+    400002: aid-platform.1 1
+    400004: assembly.CATProduct
+    400006: beam.1
+    400008: beam.1 1
+    400010: body
+    400012: body.1
+    400014: body.CATProduct
+    400016: connection.1
+    400018: connection.1 1
+    400020: dangban1.1
+    400022: dangban1.1 1
+    400024: dangban1.2
+    400026: dangban1.2 1
+    400028: deck.1
+    400030: deck.1 1
+    400032: DefaultLight1
+    400034: DefaultLight2
+    400036: DefaultLight3
+    400038: DefaultLight4
+    400040: dingbu-assembly
+    400042: dingbu-assembly.1
+    400044: dingbu-assembly.1 1
+    400046: dingbu-assembly.CATProduct
+    400048: frame-double
+    400050: frame-double.1
+    400052: frame-double.1 1
+    400054: frame.1
+    400056: frame.1 1
+    400058: fuzhu-ban.1
+    400060: fuzhu-ban.1 1
+    400062: helicopter-platform
+    400064: helicopter-platform.1
+    400066: kuai.1
+    400068: kuai.1 1
+    400070: kuangjia.1
+    400072: kuangjia.1 1
+    400074: light.1
+    400076: light.1 1
+    400078: lijia.CATProduct
+    400080: MechanicalTool.1
+    400082: platform-assembly
+    400084: platform-assembly.1
+    400086: platform-assembly.1 1
+    400088: platform.1
+    400090: platform.1 1
+    400092: platform.CATProduct
+    400094: Product8.CATProduct
+    400096: qiaojie.1
+    400098: qiaojie.1 1
+    400100: ship
+    400102: ship-body.1
+    400104: ship-body.1 1
+    400106: //RootNode
+    400108: ship-internal-structure.1
+    400110: ship-internal-structure.1 1
+    400112: ship.CATProduct
+    400114: structure-part
+    400116: structure-part.1
+    400118: structure-part.1 1
+    400120: structure.CATProduct
+    400122: structure1.1
+    400124: structure1.1 1
+    400126: Symmetry of dangban1.1
+    400128: Symmetry of dangban1.1 1
+    400130: Symmetry of dangban1.2.1
+    400132: Symmetry of dangban1.2.1 1
+    400134: Symmetry of frame
+    400136: Symmetry of frame.1.1
+    400138: Symmetry of frame.1.1 1
+    400140: Symmetry of frame1.1
+    400142: Symmetry of frame1.1 1
+    400144: Symmetry of kuai.1.1
+    400146: Symmetry of kuai.1.1 1
+    400148: Symmetry of xiaoding1.1.1
+    400150: Symmetry of xiaoding1.1.1 1
+    400152: tatai.1
+    400154: tatai.1 1
+    400156: top-pingtai.1
+    400158: top-pingtai.1 1
+    400160: weiyi-ban.1
+    400162: weiyi-ban.1 1
+    400164: xiaoding1.1
+    400166: xiaoding1.1 1
+    2100000: 'Color #ff0000ff'
+    2100002: 'Color #ff00ffff'
+    2100004: 'Color #ffff00ff'
+    2100006: 'Color #0000ffff'
+    2100008: 'Color #0080ffff'
+    2100010: 'Color #804040ff'
+    2100012: 'Color #ffffffff'
+    2100014: 'Color #d2d2ffff'
+    2100016: 'Color #008000ff'
+    2100018: 'Color #ff8080ff'
+    2100020: 'Color #ff8000ff'
+    2300000: MechanicalTool.1
+    3300000: MechanicalTool.1
+    4300000: MechanicalTool.1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

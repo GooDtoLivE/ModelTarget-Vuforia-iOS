@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.5.8">
+<ModelTarget name="ship-fta_Scale" targetId="8c1dcad2538b43b39610e44d22932f69" version="11.1" toolVersion="8.5.8" bbox="-0.475000 -0.119200 -0.060205 0.078000 0.068510 0.060205" previewImage="8c1dcad2538b43b39610e44d22932f69_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="ship-fta_Scales_assembly" assemblyId="7943c012ee204058962473886c38a6de">
+<Part name="ship-fta_Scale" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.222987 -0.0585352 0.495962" rotation="AD: 0.9999997890429089 0.013106514811628034 -0.0512229326701555 208.667" image="ship-fta_Scale_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

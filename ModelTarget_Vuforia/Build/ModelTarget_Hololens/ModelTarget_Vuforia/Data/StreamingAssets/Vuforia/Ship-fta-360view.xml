@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ship-fta" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="ship-ftas_assembly" assemblyId="e2a00ee0d3384a99a487dc484b6452b3">
+<Part name="ship-fta" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="2.16375 -0.152103 5.16194" rotation="AD: 0.0000056761735262651474 -1.369557465203385 1.463543539606747 180" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
