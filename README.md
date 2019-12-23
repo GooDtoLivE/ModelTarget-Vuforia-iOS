@@ -1,6 +1,7 @@
 # ModelTarget-Vuforia
-iOS平台测试成功
-Vuforia平台测试成功
+* iOS平台测试成功
+* Vuforia平台测试成功
+* Hololens 平台测试成功
 # Install Vuforia in Unity, See [Installing Vuforia Engine](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html#installing)
 # Model Target Support Plantform, See[Support Plantform](https://library.vuforia.com/articles/Solution/vuforia-fusion-supported-devices.html)
 # ModelTargets-supported-objects[ModelTargets-supported-objects](https://library.vuforia.com/content/vuforia-library/en/articles/Solution/model-targets-supported-objects.html)
