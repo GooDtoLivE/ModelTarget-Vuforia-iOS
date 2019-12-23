@@ -10,5 +10,7 @@ Vuforia平台测试成功
 * 稳定的表面特征
 * 相对于环境是固定的
 ## 1.Prepare date for modelTarget
-2. How to setUp in Unity
-3. Deploy on mobile device
+### creat modelTarget, See[here](https://library.vuforia.com/content/vuforia-library/en/articles/Solution/model-target-generator-user-guide.html)
+### 
+## 2. How to setUp in Unity
+## 3. Deploy on mobile device
